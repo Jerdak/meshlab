@@ -26,11 +26,10 @@ SUBDIRS       = common \
                 meshlabplugins/filter_colorproc \
 				meshlabplugins/filter_color_projection \
                 meshlabplugins/filter_create \
-                meshlabplugins/filter_csg \
 				meshlabplugins/filter_dirt \
                 meshlabplugins/filter_fractal \
                 meshlabplugins/filter_func \
-                meshlabplugins/filter_img_patch_param \                
+                meshlabplugins/filter_img_patch_param \
 				meshlabplugins/filter_isoparametrization \
                 meshlabplugins/filter_layer \
                 meshlabplugins/filter_measure \
@@ -38,9 +37,8 @@ SUBDIRS       = common \
 				meshlabplugins/filter_mutualinfoxml \
                 meshlabplugins/filter_mls \
                 meshlabplugins/filter_photosynth \
-                meshlabplugins/filter_plymc \
                 meshlabplugins/filter_poisson \
-                meshlabplugins/filter_qhull \                
+                meshlabplugins/filter_qhull \
 				meshlabplugins/filter_quality \
                 meshlabplugins/filter_sampling \
 				meshlabplugins/filter_sdfgpu \
@@ -55,13 +53,8 @@ SUBDIRS       = common \
                 meshlabplugins/render_gdp \
                 meshlabplugins/render_radiance_scaling \
                 meshlabplugins/render_rfx \
-                meshlabplugins/decorate_base \
-                meshlabplugins/decorate_background \
-                meshlabplugins/decorate_shadow \
-                meshlabplugins/decorate_raster_proj \
                 meshlabplugins/edit_select \
                 meshlabplugins/edit_pickpoints \
-                meshlabplugins/edit_align \
                 meshlabplugins/edit_measure \
                 meshlabplugins/edit_hole \
                 meshlabplugins/edit_paint\
